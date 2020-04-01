@@ -1,5 +1,5 @@
 [![version](https://img.shields.io/badge/package-download-brightgreen.svg)](https://github.com/jonHuffman/UnityImageRenderer/raw/master/Binaries/ImageRenderer_v0.1.unitypackage)
-[![version](https://img.shields.io/badge/version-v1.0-blue.svg)](https://github.com/jonHuffman/UnityImageRenderer)
+[![version](https://img.shields.io/badge/version-v0.1-blue.svg)](https://github.com/jonHuffman/UnityImageRenderer)
 [![license](https://img.shields.io/badge/license-MIT-red.svg)](./LICENSE)
 # Image Renderer
 ## Description
